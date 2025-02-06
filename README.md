@@ -4,7 +4,7 @@
 Sara is an interactive web app enabling voice and text-based command interactions with intuitive features. 🚀🔊
 
 ## 📸 Interface Screenshot
-![Sara Voice Assistant Interface](/screenshots/interface.png)
+![Sara Voice Assistant Interface](https://github.com/radhika004/Virtual-Assistant/blob/main/360_F_953002873_lnoBcjbZwbg6rdgaNha5uTFotkWxhNb0.jpg)
 
 ## ✨ Features
 - 🗣️ Voice command recognition
